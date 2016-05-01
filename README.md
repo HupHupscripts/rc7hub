@@ -3,7 +3,7 @@ this is the OFFICAL repository for rc-7hub
 i will post updates and stuff here
 
 how to use rc-7 hub:
-make sure you rc-7 folder is somewere on your desktop it doesnt matter were or what name the folder is just make sure rc7.exe is located SOMEWERE in your desktop
+make sure you rc-7 folder is somewhere on your desktop it doesnt matter were or what name the folder is just make sure rc7.exe is located SOMEWHERE in your desktop
 
 notes:
 execute script doesnt work ATM
